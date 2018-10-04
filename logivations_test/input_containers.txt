@@ -1,0 +1,4 @@
+	id	size_x	size_y	size_z
+   -100	  5	      5		  5
+
+   -101   3		  3		  3

@@ -1,0 +1,61 @@
+For order # -1000 : 
+
+		Best container # -100 :
+		Length = 5
+		Width = 5
+		Height = 5
+
+		Boxes in container :
+
+			Box # -3 :
+			Length = 3
+			Width = 3
+			Height = 3
+			Coordinate of left_down dot of box # -3 is : x = 0, y = 0, z = 0
+			Coordinate of right_up dot of box # -3 is : x = 3, y = 3, z = 3
+
+			Box # -2 :
+			Length = 2
+			Width = 2
+			Height = 2
+			Coordinate of left_down dot of box # -2 is : x = 3, y = 0, z = 0
+			Coordinate of right_up dot of box # -2 is : x = 5, y = 2, z = 2
+
+			Box # -1 :
+			Length = 1
+			Width = 1
+			Height = 1
+			Coordinate of left_down dot of box # -1 is : x = 3, y = 2, z = 0
+			Coordinate of right_up dot of box # -1 is : x = 4, y = 3, z = 1
+
+		Target function = 28.8%
+
+
+
+For order # -1001 : 
+
+		Best container # -101 :
+		Length = 3
+		Width = 3
+		Height = 3
+
+		Boxes in container :
+
+			Box # -2 :
+			Length = 2
+			Width = 2
+			Height = 2
+			Coordinate of left_down dot of box # -2 is : x = 0, y = 0, z = 0
+			Coordinate of right_up dot of box # -2 is : x = 2, y = 2, z = 2
+
+			Box # -1 :
+			Length = 1
+			Width = 1
+			Height = 1
+			Coordinate of left_down dot of box # -1 is : x = 2, y = 0, z = 0
+			Coordinate of right_up dot of box # -1 is : x = 3, y = 1, z = 1
+
+		Target function = 33.3333%
+
+
+
